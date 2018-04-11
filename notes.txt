@@ -1,0 +1,12 @@
+Section 1:
+  Intro
+Section 2:
+  -Installed Local by Flywheel for WordPress development
+Section 3:
+  Lecture 6: Setting Up your first theme
+    -created a new style: added both index.php and style.css to theme folder
+    -deleted themes that came with wordpress initially. you can just
+      delete the theme directories that you don't want and refresh admin
+    -made sure to activate the newly created theme
+
+  Lecture 7: What is a function?
