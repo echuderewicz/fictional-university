@@ -1,11 +1,14 @@
 <?php
 
-function myFirstFunction(){
+function myFirstFunction($firstName, $lastName){
 
-  echo "<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>";
-  
+  echo "<p> The developers firstname is $firstName and his last name is $lastName</p>";
+
 }
 
-myFirstFunction();
+myFirstFunction("eric", "chuderewicz");
 
 ?>
+
+<h1><?php bloginfo('name'); ?></h1>
+<p><?php bloginfo('description') ?></p>

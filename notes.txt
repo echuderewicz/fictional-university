@@ -10,3 +10,4 @@ Section 3:
     -made sure to activate the newly created theme
 
   Lecture 7: What is a function?
+    -created some functions: pretty easy
